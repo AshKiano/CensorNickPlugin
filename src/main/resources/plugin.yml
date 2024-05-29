@@ -1,0 +1,6 @@
+name: CensorNickPlugin
+version: '${project.version}'
+main: com.ashkiano.censornickplugin.CensorNickPlugin
+api-version: 1.16
+authors: [ AshKiano ]
+description: A plugin to censor player names based on a list of forbidden substrings.
